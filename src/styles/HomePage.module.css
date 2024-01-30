@@ -1,0 +1,41 @@
+.homepage {
+
+
+    flex-direction: row;
+    background-color: #252625;
+
+
+}
+
+.logo {
+    width: 50px;
+    margin: 25px;
+    margin-left: 30px;
+}
+
+.buttons {
+    margin-left: 200px;
+
+    margin-top: -50px;
+    z-index: 3;
+    display: flex;
+    border-bottom: 3px solid white;
+    border-right-style: 50px;
+
+
+}
+
+.button {
+    margin-left: -5;
+    color: white;
+    background: 0;
+    border: 0;
+    margin: 5px 5px;
+    cursor: pointer;
+    padding: 10px 15px;
+    border-radius: 15px;
+    transition: background-color 0.3s ease;
+
+
+
+}
